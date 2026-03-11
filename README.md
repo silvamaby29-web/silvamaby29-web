@@ -31,8 +31,8 @@ Meu objetivo é Aprrender mais sobre a área e adquirir conhecimento, para talve
 
 Aqui estão alguns projetos que desenvolvi durante meus estudos:
 
-📌 Projeto 1 – [Relátorios]  
-📌 Projeto 2 – [Excel]  
-📌 Projeto 3 – [VisualG]  
+📌 Projeto 1 – [Projeto]  
+📌 Projeto 2 – [Projeto]  
+📌 Projeto 3 – [Projeto]  
 
 ---
