@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Mabilly
+# 👋 Olá, eu sou a Mabilly Silva
 
 🎓 Estudante da Aprendizagem Industrial  Programação de Sistema da Informatica
 💻 Interessado em tecnologia, programação e inovação.  
