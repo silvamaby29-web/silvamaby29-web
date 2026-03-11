@@ -31,7 +31,7 @@ Meu objetivo é Aprender mais sobre a área e adquirir conhecimento, para talvez
 
 Aqui estão alguns projetos que desenvolvi durante meus estudos:
 
-📌 Projeto Python – [COLAB] (https://colab.research.google.com/drive/1PD943I4WMzLV2AYqyty2JLzgVbr_xnLA?usp=sharing) 
+📌 Projeto Python – (https://colab.research.google.com/drive/1PD943I4WMzLV2AYqyty2JLzgVbr_xnLA?usp=sharing) 
 📌 Projeto 2 – [Projeto]  
 📌 Projeto 3 – [Projeto]  
 
