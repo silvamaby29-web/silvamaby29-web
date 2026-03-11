@@ -8,7 +8,7 @@
 ## 👨‍💻 Sobre mim
 
 Sou estudante da área de tecnologia e estou aprendendo conceitos de programação, desenvolvimento web e ferramentas digitais.  
-Meu objetivo é Aprrender mais sobre a área e adquirir conhecimento, para talvez lá na frente eu investir na área.
+Meu objetivo é Aprender mais sobre a área e adquirir conhecimento, para talvez lá na frente eu investir na área.
 
 ## 🛠 Tecnologias que estou aprendendo
 
